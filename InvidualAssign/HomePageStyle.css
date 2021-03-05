@@ -1,0 +1,36 @@
+﻿body {
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Mydiv {
+    background-color: black;
+    width: 100%;
+    
+}
+.dahab, .StCathrine, .Nuweibaa, .sharm {
+    position: absolute;
+    width: 238px;
+    height: 222px;
+    left: 79px;
+}
+
+.StCathrine {
+    left: 365px;   
+}
+
+.Nuweibaa {
+    left: 660px;    
+}
+
+.sharm {
+    left: 955px;   
+}
+
+@font-face{
+    font-family: paragraph;
+    src: url(Fonts/OverlockSC-Regular.ttf);
+}
